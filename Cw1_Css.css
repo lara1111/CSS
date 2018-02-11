@@ -20,3 +20,11 @@
     -moz-transition: all 0.5s ease-in-out; /** Firefox **/
     -o-transition: all 0.5s ease-in-out; /** Opera **/
 }
+
+.object {
+    position: absolute;
+    transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out; /** Chrome & Safari **/
+    -moz-transition: all 0.5s ease-in-out; /** Firefox **/
+    -o-transition: all 0.5s ease-in-out; /** Opera **/
+}

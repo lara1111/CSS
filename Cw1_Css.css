@@ -1,9 +1,12 @@
+
+
 .object {
     position: absolute;
 }
 .van {
     top: 45%;
-    left: 1%;
+    left: 2%;
+    
 }
 
 #axis:hover .move-right{
